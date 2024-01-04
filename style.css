@@ -1,0 +1,16 @@
+#grid-container {
+    display: flex;
+    height: 288px;
+    width: 288px;
+    flex-wrap: wrap;
+    margin:auto;
+    border: 1px solid black;
+}
+
+.grid-item {
+    box-sizing: border-box; /* Border and padding are included in the width and height */
+    width: 18px; /* Width of each grid item (960 / 16) */
+    height: 18px; /* Height of each grid item */
+    border: 1px solid black;
+    background-color: lightgrey;
+}
