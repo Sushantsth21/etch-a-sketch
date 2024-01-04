@@ -1,2 +1,2 @@
 # etch-a-sketch
-Testing out different methods to complete this
+A simple etch-a-sketch program with the use of DOM manipulation
